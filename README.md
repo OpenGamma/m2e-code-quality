@@ -27,3 +27,7 @@ See docs/release.md for information about how all of this is released.
 Activity here is 'coordinated' on a mailing list:
 `m2e-code-quality@googlegroups.com`.
 
+This is a patched version based on pull-requests from adangel and zeilush.
+The goal of this clone is to refresh the code-base of the connectors to actual 
+Eclipse-versions (Juno, Kepler) and analysis-plugins like Eclipse-PMD 4.x.
+Also some little problems with specific Maven-settings are targets of the development.
